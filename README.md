@@ -9,7 +9,7 @@ It works well with both tablets and mobiles.
 #### From whom I learned: 
 Brad Traversy
 
-#### Project link: https://optimistic-ptolemy-0216df.netlify.app/
+#### Project link: https://responsive-website-demo1.netlify.app
 
 ![Alt Text](https://github.com/nick2498/Responsive-Website/blob/master/images/loruki-website-img.png)
 
